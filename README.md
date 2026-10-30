@@ -1,6 +1,6 @@
-# Sim Media Drop
+# Simulator Media Drop
 
-macOS app to add photos, videos, and contacts to iOS Simulators with drag & drop.
+So here is macOS app to add photos, videos, and contacts to iOS Simulators with drag & drop.
 
 Handy when Simulator can’t import media from the UI (common on newer iOS runtimes) and you don’t want to keep running:
 
