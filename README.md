@@ -9,7 +9,7 @@ xcrun simctl addmedia booted ~/Desktop/photo.jpg
 ```
 
 <p align="center">
-  <img src="Assets/AppIcon-1024.png" width="128" alt="Sim Media Drop icon">
+  <img src="Assets/screenshot.jpg" width="1024" alt="Sim Media Drop icon">
 </p>
 
 ## How to use
